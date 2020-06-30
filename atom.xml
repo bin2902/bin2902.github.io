@@ -4,7 +4,7 @@
   <title><![CDATA[Andy烧麦的Blog]]></title>
   <link href="https://bin2902.github.io/atom.xml" rel="self"/>
   <link href="https://bin2902.github.io/"/>
-  <updated>2020-07-01T00:31:22+08:00</updated>
+  <updated>2020-07-01T00:34:05+08:00</updated>
   <id>https://bin2902.github.io/</id>
   <author>
     <name><![CDATA[]]></name>
@@ -108,9 +108,9 @@
   
   <entry>
     <title type="html"><![CDATA[让大脑更高使用的10个习惯]]></title>
-    <link href="https://bin2902.github.io/15932631295597.html"/>
+    <link href="https://bin2902.github.io/20200627-Brain-health.html"/>
     <updated>2020-06-27T21:05:29+08:00</updated>
-    <id>https://bin2902.github.io/15932631295597.html</id>
+    <id>https://bin2902.github.io/20200627-Brain-health.html</id>
     <content type="html"><![CDATA[
 <h4 id="toc_0">提高睡眠效率（每天）</h4>
 
@@ -118,7 +118,8 @@
 
 <h4 id="toc_1">健康饮食（每天）</h4>
 
-<p>在饮食上，不吃高糖食物，少吃白米白面，要多吃绿叶蔬菜，鱼肉坚果。</p>
+<p>在饮食上，不吃高糖食物，少吃白米白面，要多吃绿叶蔬菜，鱼肉坚果。<br/>
+<span id="more"></span><!-- more --></p>
 
 <h4 id="toc_2">健康饮食（每天）</h4>
 
@@ -157,9 +158,9 @@
   
   <entry>
     <title type="html"><![CDATA[如何在有限的时间里达到最佳的工作状态-心流状态]]></title>
-    <link href="https://bin2902.github.io/15932613618168.html"/>
+    <link href="https://bin2902.github.io/20200626-Brain-health.html"/>
     <updated>2020-06-27T20:36:01+08:00</updated>
-    <id>https://bin2902.github.io/15932613618168.html</id>
+    <id>https://bin2902.github.io/20200626-Brain-health.html</id>
     <content type="html"><![CDATA[
 <p>要达到心流状态，一般有三个要素</p>
 
