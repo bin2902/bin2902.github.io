@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://bin2902.github.io/sitemap.xml
+Sitemap: https://q.4311346.com/sitemap.xml
