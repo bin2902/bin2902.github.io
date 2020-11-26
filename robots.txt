@@ -1,2 +1,0 @@
-User-agent: *
-Sitemap: https://q.4311346.com/sitemap.xml
