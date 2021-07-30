@@ -184,48 +184,6 @@
   </url>
   
   <url>
-    <loc>http://q.4311346.com/test/</loc>
-    <lastmod>2018-01-02T16:01:23+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://q.4311346.com/test2/</loc>
-    <lastmod>2018-01-02T16:01:23+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://q.4311346.com/categories/archives/</loc>
-    <lastmod>2018-01-02T16:01:23+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://q.4311346.com/tags/tag-1/</loc>
-    <lastmod>2018-01-02T16:01:23+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://q.4311346.com/tags/tag-2/</loc>
-    <lastmod>2018-01-02T16:01:23+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://q.4311346.com/tags/tag-3/</loc>
-    <lastmod>2018-01-02T16:01:23+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>http://q.4311346.com/tags/english/</loc>
     <lastmod>2017-08-31T15:43:48+08:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -241,6 +199,13 @@
   
   <url>
     <loc>http://q.4311346.com/post/2020-old/english-preview/</loc>
+    <lastmod>2017-08-31T15:43:48+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://q.4311346.com/tags/tag-2/</loc>
     <lastmod>2017-08-31T15:43:48+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
