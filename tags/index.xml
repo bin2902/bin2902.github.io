@@ -8,11 +8,47 @@
     <language>en</language>
     <lastBuildDate>Sun, 01 Aug 2021 20:00:23 +0800</lastBuildDate><atom:link href="http://q.4311346.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>AX3600</title>
+      <link>http://q.4311346.com/tags/ax3600/</link>
+      <pubDate>Sun, 01 Aug 2021 20:00:23 +0800</pubDate>
+      
+      <guid>http://q.4311346.com/tags/ax3600/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>员工</title>
       <link>http://q.4311346.com/tags/%E5%91%98%E5%B7%A5/</link>
       <pubDate>Sun, 01 Aug 2021 20:00:23 +0800</pubDate>
       
       <guid>http://q.4311346.com/tags/%E5%91%98%E5%B7%A5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>小米</title>
+      <link>http://q.4311346.com/tags/%E5%B0%8F%E7%B1%B3/</link>
+      <pubDate>Sun, 01 Aug 2021 20:00:23 +0800</pubDate>
+      
+      <guid>http://q.4311346.com/tags/%E5%B0%8F%E7%B1%B3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>小米路由器</title>
+      <link>http://q.4311346.com/tags/%E5%B0%8F%E7%B1%B3%E8%B7%AF%E7%94%B1%E5%99%A8/</link>
+      <pubDate>Sun, 01 Aug 2021 20:00:23 +0800</pubDate>
+      
+      <guid>http://q.4311346.com/tags/%E5%B0%8F%E7%B1%B3%E8%B7%AF%E7%94%B1%E5%99%A8/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>开箱</title>
+      <link>http://q.4311346.com/tags/%E5%BC%80%E7%AE%B1/</link>
+      <pubDate>Sun, 01 Aug 2021 20:00:23 +0800</pubDate>
+      
+      <guid>http://q.4311346.com/tags/%E5%BC%80%E7%AE%B1/</guid>
       <description></description>
     </item>
     
@@ -26,11 +62,29 @@
     </item>
     
     <item>
+      <title>湖北电信&#34;</title>
+      <link>http://q.4311346.com/tags/%E6%B9%96%E5%8C%97%E7%94%B5%E4%BF%A1/</link>
+      <pubDate>Sun, 01 Aug 2021 20:00:23 +0800</pubDate>
+      
+      <guid>http://q.4311346.com/tags/%E6%B9%96%E5%8C%97%E7%94%B5%E4%BF%A1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>管理</title>
       <link>http://q.4311346.com/tags/%E7%AE%A1%E7%90%86/</link>
       <pubDate>Sun, 01 Aug 2021 20:00:23 +0800</pubDate>
       
       <guid>http://q.4311346.com/tags/%E7%AE%A1%E7%90%86/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>群晖&#34;</title>
+      <link>http://q.4311346.com/tags/%E7%BE%A4%E6%99%96/</link>
+      <pubDate>Sun, 01 Aug 2021 20:00:23 +0800</pubDate>
+      
+      <guid>http://q.4311346.com/tags/%E7%BE%A4%E6%99%96/</guid>
       <description></description>
     </item>
     
@@ -130,60 +184,6 @@
       <pubDate>Thu, 31 Aug 2017 15:43:48 +0800</pubDate>
       
       <guid>http://q.4311346.com/tags/tag-2/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>development</title>
-      <link>http://q.4311346.com/tags/development/</link>
-      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
-      
-      <guid>http://q.4311346.com/tags/development/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>go</title>
-      <link>http://q.4311346.com/tags/go/</link>
-      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
-      
-      <guid>http://q.4311346.com/tags/go/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>golang</title>
-      <link>http://q.4311346.com/tags/golang/</link>
-      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
-      
-      <guid>http://q.4311346.com/tags/golang/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>templates</title>
-      <link>http://q.4311346.com/tags/templates/</link>
-      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
-      
-      <guid>http://q.4311346.com/tags/templates/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>themes</title>
-      <link>http://q.4311346.com/tags/themes/</link>
-      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
-      
-      <guid>http://q.4311346.com/tags/themes/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>hugo</title>
-      <link>http://q.4311346.com/tags/hugo/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>http://q.4311346.com/tags/hugo/</guid>
       <description></description>
     </item>
     

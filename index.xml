@@ -274,6 +274,92 @@ And then define the link:
     </item>
     
     <item>
+      <title>小米路由器AX3600-榨干湖北武汉电信带宽</title>
+      <link>http://q.4311346.com/post/2021/03/mi-aiot-ax3600/</link>
+      <pubDate>Sun, 01 Aug 2021 20:00:23 +0800</pubDate>
+      
+      <guid>http://q.4311346.com/post/2021/03/mi-aiot-ax3600/</guid>
+      
+        <description>&lt;p&gt;总的来说，还是折腾的，小米路由器3G，即使有Breed不死控制台，还是能变砖…即使在Breed控制台下，也无法再恢复固件，哪怕是小米官方稳定版的固件。这么多年，刷了这么多电子产品，这是一个砖。&lt;/p&gt;
+
+&lt;p&gt;没了路由器，靠光猫自带的WIFI，功能有限，信号覆盖更是小到可怜。只能用便携设备代替一晚了，翻箱倒柜找出来，一台百兆交换机，这是N年前放弱电箱中的玩意。外加一台将近10年的华为WS331a便携式无线路由支撑了一个晚上。&lt;/p&gt;
+
+&lt;p&gt;百兆交换机即使用上千兆网线，插在群晖NAS网卡上也会闪橙色灯… 能用，但难受！！！&lt;/p&gt;
+
+&lt;p&gt;还是买台吧，虽然之前无更换无线路由器的计划，但时长也在关注。&lt;/p&gt;
+
+&lt;p&gt;华为AX3pro，价格便宜，华为自研凌霄四核1.4GHz等各项指标都不错，一直还挺看好的，可全网都在反馈，发热量巨大…&lt;/p&gt;
+
+&lt;p&gt;果断放弃~ 当然还有 华硕RT-AX86U，这个是价格巨贵，不打游戏，没必要这样的投资。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;剩下的就只有 小米 家的路由器了&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;从 小米路由器mini 到 小米路由器3G 也曾算是半个米粉了，AX3600 去年上市是旗舰 售价 599元，号称 5G时代路由先锋  ，而半年之后 小米又推出 AX6000 号称速度再加速 20% ，只可惜我不是用小米11，不是骁龙888，无法感受到这20%的提升。&lt;/p&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&#34;center&#34;&gt;小米路由器 AX3600-AX6000 参数对比图&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;figure&gt;&lt;img src=&#34;https://gitee.com/bin2902/Pic/raw/master/2021/AX3600-AX6000.png&#34; alt=&#34;AX3600-AX6000&#34;&gt;&lt;/figure&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;而AX6000新增2.5G网口，算是拥有2.5G网口最便宜的路由器，但我的群晖DS220+确没有2.5G网卡~AX6000多个方面升级，但CPU却是降级… 4核心变2核，频率也下降。想着CPU在路由器普通的需求里用不着太多，AX6000  右下角LOGO更有质感，况且群晖DS220+双网口还能做软路由，对路由器的CPU就更没啥需求了。&lt;/p&gt;
+
+&lt;p&gt;结果关注了半年的&lt;a href=&#34;https://www.mi.com/r3600&#34;&gt;AX3600降价100元&lt;/a&gt;，那还想啥呢？就它了…&lt;/p&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&#34;center&#34;&gt;JD下单当天下午就到货了&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;figure&gt;&lt;img src=&#34;https://gitee.com/bin2902/Pic/raw/master/2021/IMG_20210328_145647.jpeg&#34; alt=&#34;小米路由器AX3600&#34;&gt;&lt;/figure&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;小米路由器AX3600包装盒可真大&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;figure&gt;&lt;img src=&#34;https://gitee.com/bin2902/Pic/raw/master/2021/IMG_20210328_145828.jpeg&#34; alt=&#34;小米路由器AX3600真机&#34;&gt;&lt;/figure&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;宽度41厘米，摆桌上都快有半米长了&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;figure&gt;&lt;img src=&#34;https://gitee.com/bin2902/Pic/raw/master/2021/IMG_20210328_190533.jpeg&#34; alt=&#34;小米路由器AX3600说明书&#34;&gt;&lt;/figure&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;小米路由器AX3600说明书的主要故障说明，放这里是为了方便查看&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;figure&gt;&lt;img src=&#34;https://gitee.com/bin2902/Pic/raw/master/2021/2021-03-28%2021.11.46.png&#34; alt=&#34;小米路由器AX3600测速&#34;&gt;&lt;/figure&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;300M中国电信宽带，跑到340M，基本带宽被小米路由器AX3600榨干了&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+      
+    </item>
+    
+    <item>
       <title>沟通问题很大的员工</title>
       <link>http://q.4311346.com/post/2021/08/employees-with-communication-problems/</link>
       <pubDate>Sun, 01 Aug 2021 20:00:23 +0800</pubDate>
