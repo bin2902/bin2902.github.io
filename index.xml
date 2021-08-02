@@ -380,11 +380,200 @@ And then define the link:
     </item>
     
     <item>
-      <title>2021年7月31日</title>
-      <link>http://q.4311346.com/post/2021/07/enterprise-internal-journal/</link>
-      <pubDate>Thu, 04 Mar 2021 16:01:23 +0800</pubDate>
+      <title>DIY27寸4K显示器掉入的坑</title>
+      <link>http://q.4311346.com/post/2020/07/diy-27-inches-4k-display/</link>
+      <pubDate>Sun, 19 Jul 2020 17:00:00 +0800</pubDate>
       
-      <guid>http://q.4311346.com/post/2021/07/enterprise-internal-journal/</guid>
+      <guid>http://q.4311346.com/post/2020/07/diy-27-inches-4k-display/</guid>
+      
+        <description>&lt;h4 id=&#34;购物付款的感觉真的是很好特别是大额现金的时候&#34;&gt;购物付款的感觉真的是很好，特别是大额现金的时候。&lt;/h4&gt;
+
+&lt;p&gt;上周下单的DELL UltraSharp 2720QM 已经到货了，关于U2720QM的具体情况等到货再说，先谈谈前面入过的DIY显示器的坑。&lt;/p&gt;
+
+&lt;h4 id=&#34;一直是dell粉&#34;&gt;一直是DELL粉&lt;/h4&gt;
+
+&lt;p&gt;2013年生日的时候，购买了一台DELL UltraSharp 2414H 显示器，使用至今7年时间，相当的稳，不管是对比度，色域，亮度，都非常的好。很难想象在2020年疫情期间，在家办公了快4个月时间，如果没有它，肯定相当的难熬。&lt;/p&gt;
+
+&lt;p&gt;但缺点是都9012年都过去了，还没能上2K，1080P有点跟不上潮流，也就有了换4K的念头。一直以来动手能力超强，也是在张大妈上看到网友自购LG LM270WR5-SSB1 面板、驱动板、在开个模具一台高性能的27寸4K显示器就可以上线使用了，成本1500-1800元。&lt;/p&gt;
+
+&lt;p&gt;&lt;figure&gt;&lt;img src=&#34;https://gitee.com/bin2902/Pic/raw/master/2021/782355839.jpg&#34; alt=&#34;20200709-DELLu2414h.jpg&#34;&gt;&lt;/figure&gt;)&lt;/p&gt;
+
+&lt;p&gt;用了7年的 DELL U2414H 完美屏，闲鱼 590 瞬间就出掉了
+&lt;figure&gt;&lt;img src=&#34;https://gitee.com/bin2902/Pic/raw/master/2021/2232718670.jpg&#34; alt=&#34;闲鱼卖掉U2414H&#34;&gt;&lt;/figure&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;购买diy27寸4k显示器&#34;&gt;购买DIY27寸4K显示器&lt;/h3&gt;
+
+&lt;p&gt;年纪大了，精力不足，也就在淘宝上，找了个销量还不错的DIY显示器商家，购买了一台27寸4K显示器。这价格SAMSUNG、PHILIPS、LG、ViewSonic、AOC，都有27寸入门级4K显示器。更别提低于1500以下的27寸4K显示器，如：创维、凡硕、松人等…&lt;/p&gt;
+
+&lt;h4 id=&#34;为什么选择27寸-4k-diy-显示器&#34;&gt;为什么选择27寸 4K DIY 显示器&lt;/h4&gt;
+
+&lt;p&gt;觉得要上32寸，就不如用电视了…也和DIY是27寸4K入门的价格差不多，但面板是LG  LM270WR5-SSB1，它的显示各项参数都非常不错，具备P3色域就和MacBookPro很兼容了，至少不会看完显示器，再看电脑色差巨大。还一个最关键的就是带 Type-C 支持65W充电，至少桌面上减少了两根线，分别是一根笔记本电源线和一根USB数据上行线。
+&lt;figure&gt;&lt;img src=&#34;https://gitee.com/bin2902/Pic/raw/master/2021/1101856349.jpg&#34; alt=&#34;20200709-DIY-27-4K-1.jpg&#34;&gt;&lt;/figure&gt;&lt;/p&gt;
+
+&lt;p&gt;收到DIY27寸4K显示器时拆箱&lt;/p&gt;
+
+&lt;h4 id=&#34;购买diy27寸4k显示器翻车现场&#34;&gt;购买DIY27寸4K显示器翻车现场&lt;/h4&gt;
+
+&lt;p&gt;买家发货比较积极，顺丰2天就到货了，搬回家第一时间开机使用检测屏幕，无暗点、坏点也没有亮点，各种屏幕测试软件测试过之后，完美屏。但在使用过程中还是会发现一些细节的问题。金牛座的我有着处女座的挑剔。&lt;/p&gt;
+
+&lt;p&gt;&lt;figure&gt;&lt;img src=&#34;https://gitee.com/bin2902/Pic/raw/master/2021/1239446259.jpg&#34; alt=&#34;各种软件测试&#34;&gt;&lt;/figure&gt;&lt;/p&gt;
+
+&lt;p&gt;各种软件测试&lt;/p&gt;
+
+&lt;h4 id=&#34;购买diy27寸显示器翻车的几个问题点&#34;&gt;购买DIY27寸显示器翻车的几个问题点&lt;/h4&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;1.静电不可避免&lt;/strong&gt;
+淘宝购买的DIY27寸4K显示器，商家定制一体式铝合金后壳，手感肯定是没花说，虽然不是快充，安装升降旋转底座是需要手动安装4颗螺丝，是可以接受的。但商家配备的是24V-4.0A的电源适配器。这个电源适配器是两项插孔，无法接地，以至于整个显示器后壳+边框（边框也是金属）是带电的。手摸上去是麻的，24V-4.0A全淘宝都是两项插口的，如果想买三项的只能购买大于这个瓦数的。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;figure&gt;&lt;img src=&#34;https://gitee.com/bin2902/Pic/raw/master/2021/2083574910.jpg&#34; alt=&#34;DIY27寸4K显示器电源适配器&#34;&gt;&lt;/figure&gt;&lt;/p&gt;
+
+&lt;p&gt;DIY27寸4K显示器电源适配器 24V-4.0A=86W，Type-C 还能提供 65W 供电，没设备无法测试&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;DIY显示器合金边框工艺还欠缺火候&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;既然有了一体成型的铝合金显示器后壳，那么将LG  LM270WR5-SSB1面板安装上去，就一定需要定制边框，商家定制的边框，工艺实在难以接受。除边框一圈又明显接头以外，显示器4个90度直角，有2个处理还不错，但另外2个就太马虎，还有空隙，可以穿过5根牙签的缝隙。难道是快递运输造成的？还是我是个案？ 但金属边框也够硬 ，个人感觉是不容易变形的。
+&lt;figure&gt;&lt;img src=&#34;https://gitee.com/bin2902/Pic/raw/master/2021/4213687751.jpg&#34; alt=&#34;DIY显示器目前的铝合金边框&#34;&gt;&lt;/figure&gt;&lt;/p&gt;
+
+&lt;p&gt;DIY显示器目前的铝合金边框还无法做到无缝对接，但这样翘起实在是很难看
+&lt;figure&gt;&lt;img src=&#34;https://gitee.com/bin2902/Pic/raw/master/2021/791139715.jpg&#34; alt=&#34;DIY27寸4K显示器右下角&#34;&gt;&lt;/figure&gt;&lt;/p&gt;
+
+&lt;p&gt;DIY27寸4K显示器右下角，工艺还不错，如果4个角都这样，我会点赞
+&lt;figure&gt;&lt;img src=&#34;https://gitee.com/bin2902/Pic/raw/master/2021/3234158036.jpg&#34; alt=&#34;DIY27寸4K显示器的左下角&#34;&gt;&lt;/figure&gt;&lt;/p&gt;
+
+&lt;p&gt;再来看下DIY27寸4K显示器的左下角
+&lt;figure&gt;&lt;img src=&#34;https://gitee.com/bin2902/Pic/raw/master/2021/1592553733.jpg&#34; alt=&#34;DIY27寸4K显示器的右上角&#34;&gt;&lt;/figure&gt;&lt;/p&gt;
+
+&lt;p&gt;DIY27寸4K显示器的右上角，哎…头疼&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;4K显示器驱动板&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;驱动板都是公板，商家拿来就用，并不会植入LOGO等界面，所以开机画面就是蓝屏的，感觉很LOW。驱动板接口  HDMIx1、DPx1、Type-Cx1、USBx2、电源输入x1、音频输出x1、插口位置在显示器与显示器支架之间的中间。插拔就是超级不顺手的。配套驱动板的是一套按键，手感一般，但是按键功能的排列顺序，有点烧脑，按键并没有标注功能说明。&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;功能-上-下-退出-确认-左-关机，经常不小心就按关了&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;配套数据线Type-CDPHDMI&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Typec确实方便，一根线解决充电、视频、音频、数据传输等所有问题，但同样带来的是导电。上面说了显示器静电，这静电会通过Type-C传到MacBookPro，要知道MacBookPro静电，通过使用三项电源线可以解决，但现在是显示器供电，无解，除非把显示器电源换了，但是匹配的不多。DP线因为不玩游戏机还没使用…&lt;/p&gt;
+
+&lt;p&gt;HDMI线，虽然是2.0的，但接入Thinkpad X1 Carbon 2017 5th 的 HDMI口（未用type-c拓展坞）是无法实现4K60hz刷新率的，只能继续30hz。
+&lt;figure&gt;&lt;img src=&#34;https://gitee.com/bin2902/Pic/raw/master/2021/1116874094.jpg&#34; alt=&#34;DIY27寸4K 显示器&#34;&gt;&lt;/figure&gt;&lt;/p&gt;
+
+&lt;p&gt;DIY27寸4K显示器 HDMI 2.0线 无法上4K60hz ,暂只有Type-C可以4k60hz&lt;/p&gt;
+
+&lt;h4 id=&#34;入坑感悟&#34;&gt;入坑感悟…&lt;/h4&gt;
+
+&lt;p&gt;总之给你带来的就是一种超级的不确定性，无奈一周后坚决退货。低价确实容易吸引客户，却也容易使客户形成“低价没好货”的印象。长期用低价手段或许短期内收益会比较明显，但从长远角度来看，却侵蚀了自己长期的利润，以致销量增加利润最终都下降。&lt;/p&gt;
+
+&lt;p&gt;&lt;figure&gt;&lt;img src=&#34;https://gitee.com/bin2902/Pic/raw/master/2021/190875685.jpg&#34; alt=&#34;淘宝的退货流程&#34;&gt;&lt;/figure&gt;&lt;/p&gt;
+
+&lt;p&gt;淘宝的退货流程还是比较满意，极速退款&lt;/p&gt;
+
+&lt;p&gt;&lt;figure&gt;&lt;img src=&#34;https://gitee.com/bin2902/Pic/raw/master/2021/230397608.jpg&#34; alt=&#34;运费险只能赔付12元&#34;&gt;&lt;/figure&gt;&lt;/p&gt;
+</description>
+      
+    </item>
+    
+    <item>
+      <title>路桥集团-想找个主体好难</title>
+      <link>http://q.4311346.com/post/2020/07/crbcint-subject-/</link>
+      <pubDate>Sat, 18 Jul 2020 23:00:00 +0800</pubDate>
+      
+      <guid>http://q.4311346.com/post/2020/07/crbcint-subject-/</guid>
+      
+        <description>&lt;p&gt;因为同事在做路桥集团的项目，说是路桥集团承包了香港粉岭北发展区第一阶段—粉岭绕道东段（崇谦堂至九龙坑）的公路工程，所以就去找了下路桥集团的信息，结果&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;路桥集团国际建设股份有限公司
+中交路桥建设有限公司
+中国路桥集团
+中国路桥建设集团有限公司
+中建路桥集团有限公司
+中国路桥工程有限责任公司
+中电建路桥集团
+等等等等……&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;中字头就这么多，都是上千人甚至上万人的企业，但能查到的信息并不多…
+另外每个省开头的又是一大堆路桥建设和路桥工程有限公司，还有上百家…&lt;/p&gt;
+
+&lt;p&gt;这就是CCTV《超级工程》、《大国重器》和《大国崛起》中一直在强调，新基建将点亮中国经济的未来吗？&lt;/p&gt;
+
+&lt;p&gt;感觉更像是房地产集团下设的一个个项目公司，独立核算，多如牛毛一样…
+最后找到管网应该是这个把：www.crbcint.com 最后是 504 错误无法打开。&lt;/p&gt;
+
+&lt;p&gt;&lt;figure&gt;&lt;img src=&#34;https://gitee.com/bin2902/Pic/raw/master/2021/3090752750.jpg&#34; alt=&#34;路桥集团&#34;&gt;&lt;/figure&gt;&lt;/p&gt;
+</description>
+      
+    </item>
+    
+    <item>
+      <title>天福茗茶-我可能买到假货了</title>
+      <link>http://q.4311346.com/post/2020/07/tianfu-tea/</link>
+      <pubDate>Fri, 17 Jul 2020 17:00:00 +0800</pubDate>
+      
+      <guid>http://q.4311346.com/post/2020/07/tianfu-tea/</guid>
+      
+        <description>&lt;p&gt;天福茗茶这个品牌在武汉市随处可见加盟的专卖店，店铺装修都还不错，但从没进去过。自己从来没有喝茶的习惯，也不知道为啥，作为小闲用户逛淘宝，就逛了逛茶叶，一直听说绿茶不错，就买着试试…&lt;/p&gt;
+
+&lt;p&gt;想着淘宝满300减30的活动，就下单了天福茗茶大铁罐铁观音，没多久就收到货了。
+只是常听人说铁观音，也是喝了几口之后，才具体的了解了下啥是铁观音。&lt;/p&gt;
+
+&lt;h4 id=&#34;啥是铁观音&#34;&gt;啥是铁观音&lt;/h4&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;铁观音，中国传统名茶，属于青茶类，是中国十大名茶之一。
+原产于福建泉州市安溪县西坪镇，发现于1723—1735年。
+“铁观音”既是茶名，也是茶树品种名，铁观音茶介于绿茶和红茶之间，属于半发酵茶类。
+&lt;figure&gt;&lt;img src=&#34;https://gitee.com/bin2902/Pic/raw/master/2021/4171880316.jpg&#34; alt=&#34;天福茗茶-铁观音&#34;&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h4 id=&#34;天福茗茶铁观音感受&#34;&gt;天福茗茶铁观音感受&lt;/h4&gt;
+
+&lt;p&gt;喝起来味道比较容易接受，也比较容易入口，味道还是很清香。
+但虽然自己不是个常喝茶的主，好坏多少还是能分辨的。&lt;/p&gt;
+
+&lt;p&gt;*** ##### 直接说不满意的地方
+看杯里的茶叶，这一杯只放置了真空包装的二分之一，沉积在底部的茶叶杂质较多。
+这个杂质主要是碎片的茶叶组成，另外基本上没有太完整的一片片大叶片
+一个外行人，都能看出工艺不咋地，算是要翻车了…
+还是我真的买到天福茗茶的假货了？
+&lt;figure&gt;&lt;img src=&#34;https://gitee.com/bin2902/Pic/raw/master/2021/2669641853.jpg&#34; alt=&#34;天福茗茶-铁观音&#34;&gt;&lt;/figure&gt;![](&lt;a href=&#34;https://gitee.com/bi&#34;&gt;https://gitee.com/bi&lt;/a&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;天福茗茶铁观音开箱&#34;&gt;天福茗茶铁观音开箱&lt;/h4&gt;
+
+&lt;p&gt;铁管+真空小包装，是比较适合保存和平时日常带公司或者外出饮用的，入门玩家都算不上，所以也就是直接冲泡就喝了。500cc的饮水杯，第一杯，第二杯味道都挺好，第三杯开始，味道减淡。天福茗茶的铁管上说是可以泡7次，估计是达不到的，不过上班一天也就那么几杯水，肯定是够的。
+天福茗茶的官方旗舰店介绍说是可以泡5次，也就只能这么多…
+&lt;figure&gt;&lt;img src=&#34;https://gitee.com/bin2902/Pic/raw/master/2021/2572993016.jpg&#34; alt=&#34;天福茗茶铁观音开箱&#34;&gt;&lt;/figure&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;天福茗茶铁观音说明书&#34;&gt;天福茗茶铁观音说明书&lt;/h4&gt;
+
+&lt;p&gt;铁观音的铁罐包装上，注明茶叶等级是三级，但并不知道茶叶等级与种类如何划分。
+购买的时候，基本是没注意的，也没看评论，只是看到天福茗茶的品牌就直接购买了。
+这次 天福茗茶 对我的信任状基本上全部没有了，这一斤茶叶，对于平时不会喝的我来说，估计能喝上一年…
+&lt;figure&gt;&lt;img src=&#34;https://gitee.com/bin2902/Pic/raw/master/2021/287121274.jpg&#34; alt=&#34;天福茗茶铁观音说明书&#34;&gt;&lt;/figure&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;一分钱一分货的真理&#34;&gt;一分钱一分货的真理&lt;/h4&gt;
+
+&lt;p&gt;花的钱不多，便宜的茶品或许只能这样了，至少比起那些三无产品，要放心一些。
+一直非常向往中国的茶文化，或许只有到了一定的年龄和心态，才能真正的品出这一壶茶的滋味与意义，到那时希望不再入坑。&lt;/p&gt;
+</description>
+      
+    </item>
+    
+    <item>
+      <title>企业内刊这么做就对了-终于有点杂志刊物的样子了</title>
+      <link>http://q.4311346.com/post/2020/07/enterprise-internal-journal/</link>
+      <pubDate>Thu, 16 Jul 2020 23:00:00 +0800</pubDate>
+      
+      <guid>http://q.4311346.com/post/2020/07/enterprise-internal-journal/</guid>
       
         <description>&lt;p&gt;企业文化建设的过程中，最有文化范的形式，就是制作和发布企业内刊。之前由部门另外一位同事在负责，将近半年的时间，都没能说动她进行改变。9012年都已经过完了，也没见更新，种种原因她也最终被动离职了。&lt;/p&gt;
 
@@ -406,7 +595,7 @@ And then define the link:
 
 &lt;h4 id=&#34;企业内刊样板&#34;&gt;企业内刊样板&lt;/h4&gt;
 
-&lt;p&gt;&lt;figure&gt;&lt;img src=&#34;https://4311346.com/usr/uploads/2020/07/3355752043.png&#34; alt=&#34;202007-企业内刊样例.png&#34;&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;&lt;figure&gt;&lt;img src=&#34;https://gitee.com/bin2902/Pic/raw/master/2021/3355752043.png&#34; alt=&#34;企业内刊&#34;&gt;&lt;/figure&gt;&lt;/p&gt;
 
 &lt;h4 id=&#34;如何发布企业内刊&#34;&gt;如何发布企业内刊&lt;/h4&gt;
 
@@ -3293,179 +3482,6 @@ Liquid::Template.register_tag(&#39;image&#39;, Jekyll::ImageTag)
 &lt;p&gt;You&amp;rsquo;ll want to remove the Jekyll configuration at this point. If you have anything else that isn&amp;rsquo;t used, delete it.&lt;/p&gt;
 &lt;h2 id=&#34;a-practical-example-in-a-diff&#34;&gt;A practical example in a diff&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&#34;http://heyitsalex.net/&#34;&gt;Hey, it&amp;rsquo;s Alex&lt;/a&gt; was migrated in less than a &lt;em&gt;father-with-kids day&lt;/em&gt; from Jekyll to Hugo. You can see all the changes (and screw-ups) by looking at this &lt;a href=&#34;https://github.com/alexandre-normand/alexandre-normand/compare/869d69435bd2665c3fbf5b5c78d4c22759d7613a...b7f6605b1265e83b4b81495423294208cc74d610&#34;&gt;diff&lt;/a&gt;.&lt;/p&gt;
-</description>
-      
-    </item>
-    
-    <item>
-      <title>Syntax Highlighting</title>
-      <link>http://q.4311346.com/post/2020/syntax-highlighting/</link>
-      <pubDate>Tue, 30 Aug 2011 16:01:23 +0800</pubDate>
-      
-      <guid>http://q.4311346.com/post/2020/syntax-highlighting/</guid>
-      
-        <description>&lt;p&gt;More detail: &lt;a href=&#34;https://gohugo.io/content-management/syntax-highlighting/&#34;&gt;Syntax Highlighting | Hugo&lt;/a&gt;&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-js&#34; data-lang=&#34;js&#34;&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;function&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;helloWorld&lt;/span&gt; () {
-  &lt;span style=&#34;color:#a6e22e&#34;&gt;alert&lt;/span&gt;(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Hello, World!&amp;#34;&lt;/span&gt;)
-}
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-java&#34; data-lang=&#34;java&#34;&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;public&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;class&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;HelloWorld&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;{&lt;/span&gt;
-  &lt;span style=&#34;color:#66d9ef&#34;&gt;public&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;static&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;void&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;main&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;(&lt;/span&gt;String&lt;span style=&#34;color:#f92672&#34;&gt;[]&lt;/span&gt; args&lt;span style=&#34;color:#f92672&#34;&gt;)&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;{&lt;/span&gt;
-    System&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;out&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;println&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;(&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Hello, World!&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;);&lt;/span&gt;
-  &lt;span style=&#34;color:#f92672&#34;&gt;}&lt;/span&gt;
-&lt;span style=&#34;color:#f92672&#34;&gt;}&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-kotlin&#34; data-lang=&#34;kotlin&#34;&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;package&lt;/span&gt; hello
-
-&lt;span style=&#34;color:#66d9ef&#34;&gt;fun&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;main&lt;/span&gt;(args: Array&amp;lt;String&amp;gt;) {
-  println(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Hello World!&amp;#34;&lt;/span&gt;)
-}
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-c&#34; data-lang=&#34;c&#34;&gt;&lt;span style=&#34;color:#75715e&#34;&gt;#include&lt;/span&gt; &lt;span style=&#34;color:#75715e&#34;&gt;&amp;lt;stdio.h&amp;gt;&lt;/span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;
-&lt;/span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;&lt;/span&gt;
-&lt;span style=&#34;color:#75715e&#34;&gt;/* Hello */&lt;/span&gt;
-&lt;span style=&#34;color:#66d9ef&#34;&gt;int&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;main&lt;/span&gt;(&lt;span style=&#34;color:#66d9ef&#34;&gt;void&lt;/span&gt;){
-  printf(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Hello, World!&amp;#34;&lt;/span&gt;);
-  &lt;span style=&#34;color:#66d9ef&#34;&gt;return&lt;/span&gt; &lt;span style=&#34;color:#ae81ff&#34;&gt;0&lt;/span&gt;;
-}
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-cpp&#34; data-lang=&#34;cpp&#34;&gt;&lt;span style=&#34;color:#75715e&#34;&gt;// &amp;#39;Hello World!&amp;#39; program
-&lt;/span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;&lt;/span&gt;
-&lt;span style=&#34;color:#75715e&#34;&gt;#include&lt;/span&gt; &lt;span style=&#34;color:#75715e&#34;&gt;&amp;lt;iostream&amp;gt;&lt;/span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;
-&lt;/span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;&lt;/span&gt;
-&lt;span style=&#34;color:#66d9ef&#34;&gt;int&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;main&lt;/span&gt;(){
-  std&lt;span style=&#34;color:#f92672&#34;&gt;::&lt;/span&gt;cout &lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;&amp;lt;&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Hello World!&amp;#34;&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;&amp;lt;&lt;/span&gt; std&lt;span style=&#34;color:#f92672&#34;&gt;::&lt;/span&gt;endl;
-  &lt;span style=&#34;color:#66d9ef&#34;&gt;return&lt;/span&gt; &lt;span style=&#34;color:#ae81ff&#34;&gt;0&lt;/span&gt;;
-}
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-cs&#34; data-lang=&#34;cs&#34;&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;using&lt;/span&gt; System;
-&lt;span style=&#34;color:#66d9ef&#34;&gt;class&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;HelloWorld&lt;/span&gt;{
-  &lt;span style=&#34;color:#66d9ef&#34;&gt;public&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;static&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;void&lt;/span&gt; Main(){
-    System.Console.WriteLine(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Hello, World!&amp;#34;&lt;/span&gt;);
-  }
-}
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-html&#34; data-lang=&#34;html&#34;&gt;&amp;lt;&lt;span style=&#34;color:#f92672&#34;&gt;html&lt;/span&gt;&amp;gt;
-&amp;lt;&lt;span style=&#34;color:#f92672&#34;&gt;body&lt;/span&gt;&amp;gt;
-  Hello, World!
-&amp;lt;/&lt;span style=&#34;color:#f92672&#34;&gt;body&lt;/span&gt;&amp;gt;
-&amp;lt;/&lt;span style=&#34;color:#f92672&#34;&gt;html&lt;/span&gt;&amp;gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-go&#34; data-lang=&#34;go&#34;&gt;&lt;span style=&#34;color:#f92672&#34;&gt;package&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;main&lt;/span&gt;
-&lt;span style=&#34;color:#f92672&#34;&gt;import&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;fmt&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;fmt&amp;#34;&lt;/span&gt;
-
-&lt;span style=&#34;color:#66d9ef&#34;&gt;func&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;main&lt;/span&gt;()
-{
-   &lt;span style=&#34;color:#a6e22e&#34;&gt;fmt&lt;/span&gt;.&lt;span style=&#34;color:#a6e22e&#34;&gt;Printf&lt;/span&gt;(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Hello, World!\n&amp;#34;&lt;/span&gt;);
-}
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-scala&#34; data-lang=&#34;scala&#34;&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;object&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;HelloWorld&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;with&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;Application&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;{&lt;/span&gt;
-  &lt;span style=&#34;color:#a6e22e&#34;&gt;Console&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;println&lt;span style=&#34;color:#f92672&#34;&gt;(&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Hello, World!&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;);&lt;/span&gt;
-&lt;span style=&#34;color:#f92672&#34;&gt;}&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-php&#34; data-lang=&#34;php&#34;&gt;&lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;?&lt;/span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;php&lt;/span&gt;
-  &lt;span style=&#34;color:#66d9ef&#34;&gt;echo&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;Hello, World!&amp;#39;&lt;/span&gt;;
-&lt;span style=&#34;color:#75715e&#34;&gt;?&amp;gt;&lt;/span&gt;&lt;span style=&#34;color:#960050;background-color:#1e0010&#34;&gt;
-&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;print(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Hello, World!&amp;#34;&lt;/span&gt;)
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;no-named-code-block&#34;&gt;no named code block&lt;/h2&gt;
-&lt;pre&gt;&lt;code&gt;## this is a comment
-$ echo this is a command
-this is a command
-
-## edit the file
-$vi foo.md
-+++
-date = &amp;quot;2014-09-28&amp;quot;
-title = &amp;quot;creating a new theme&amp;quot;
-+++
-
-bah and humbug
-:wq
-
-## show it
-$ cat foo.md
-+++
-date = &amp;quot;2014-09-28&amp;quot;
-title = &amp;quot;creating a new theme&amp;quot;
-+++
-
-bah and humbug
-$
-&lt;/code&gt;&lt;/pre&gt;&lt;h2 id=&#34;highlight-shortcode&#34;&gt;highlight shortcode&lt;/h2&gt;
-&lt;p&gt;example:&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&#34;language-shortcode&#34; data-lang=&#34;shortcode&#34;&gt;{{&amp;lt; highlight go &amp;quot;linenos=table,hl_lines=8 15-17,linenostart=199&amp;quot; &amp;gt;}}
-// ... code
-{{&amp;lt; /highlight &amp;gt;}}
-&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;result:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;div style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;
-&lt;table style=&#34;border-spacing:0;padding:0;margin:0;border:0;width:auto;overflow:auto;display:block;&#34;&gt;&lt;tr&gt;&lt;td style=&#34;vertical-align:top;padding:0;margin:0;border:0;&#34;&gt;
-&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code&gt;&lt;span style=&#34;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt;199
-&lt;/span&gt;&lt;span style=&#34;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt;200
-&lt;/span&gt;&lt;span style=&#34;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt;201
-&lt;/span&gt;&lt;span style=&#34;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt;202
-&lt;/span&gt;&lt;span style=&#34;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt;203
-&lt;/span&gt;&lt;span style=&#34;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt;204
-&lt;/span&gt;&lt;span style=&#34;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt;205
-&lt;/span&gt;&lt;span style=&#34;display:block;width:100%;background-color:#3c3d38&#34;&gt;&lt;span style=&#34;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt;206
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt;207
-&lt;/span&gt;&lt;span style=&#34;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt;208
-&lt;/span&gt;&lt;span style=&#34;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt;209
-&lt;/span&gt;&lt;span style=&#34;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt;210
-&lt;/span&gt;&lt;span style=&#34;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt;211
-&lt;/span&gt;&lt;span style=&#34;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt;212
-&lt;/span&gt;&lt;span style=&#34;display:block;width:100%;background-color:#3c3d38&#34;&gt;&lt;span style=&#34;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt;213
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:block;width:100%;background-color:#3c3d38&#34;&gt;&lt;span style=&#34;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt;214
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:block;width:100%;background-color:#3c3d38&#34;&gt;&lt;span style=&#34;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt;215
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt;216
-&lt;/span&gt;&lt;span style=&#34;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt;217
-&lt;/span&gt;&lt;span style=&#34;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt;218
-&lt;/span&gt;&lt;span style=&#34;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt;219
-&lt;/span&gt;&lt;span style=&#34;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt;220
-&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
-&lt;td style=&#34;vertical-align:top;padding:0;margin:0;border:0;;width:100%&#34;&gt;
-&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-go&#34; data-lang=&#34;go&#34;&gt;&lt;span style=&#34;color:#75715e&#34;&gt;// GetTitleFunc returns a func that can be used to transform a string to
-&lt;/span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;// title case.
-&lt;/span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;//
-&lt;/span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;// The supported styles are
-&lt;/span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;//
-&lt;/span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;// - &amp;#34;Go&amp;#34; (strings.Title)
-&lt;/span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;// - &amp;#34;AP&amp;#34; (see https://www.apstylebook.com/)
-&lt;/span&gt;&lt;span style=&#34;display:block;width:100%;background-color:#3c3d38&#34;&gt;&lt;span style=&#34;color:#75715e&#34;&gt;// - &amp;#34;Chicago&amp;#34; (see http://www.chicagomanualofstyle.org/home.html)
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;//
-&lt;/span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;// If an unknown or empty style is provided, AP style is what you get.
-&lt;/span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;&lt;/span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;func&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;GetTitleFunc&lt;/span&gt;(&lt;span style=&#34;color:#a6e22e&#34;&gt;style&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;string&lt;/span&gt;) &lt;span style=&#34;color:#66d9ef&#34;&gt;func&lt;/span&gt;(&lt;span style=&#34;color:#a6e22e&#34;&gt;s&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;string&lt;/span&gt;) &lt;span style=&#34;color:#66d9ef&#34;&gt;string&lt;/span&gt; {
-  &lt;span style=&#34;color:#66d9ef&#34;&gt;switch&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;strings&lt;/span&gt;.&lt;span style=&#34;color:#a6e22e&#34;&gt;ToLower&lt;/span&gt;(&lt;span style=&#34;color:#a6e22e&#34;&gt;style&lt;/span&gt;) {
-  &lt;span style=&#34;color:#66d9ef&#34;&gt;case&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;go&amp;#34;&lt;/span&gt;:
-    &lt;span style=&#34;color:#66d9ef&#34;&gt;return&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;strings&lt;/span&gt;.&lt;span style=&#34;color:#a6e22e&#34;&gt;Title&lt;/span&gt;
-&lt;span style=&#34;display:block;width:100%;background-color:#3c3d38&#34;&gt;  &lt;span style=&#34;color:#66d9ef&#34;&gt;case&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;chicago&amp;#34;&lt;/span&gt;:
-&lt;/span&gt;&lt;span style=&#34;display:block;width:100%;background-color:#3c3d38&#34;&gt;    &lt;span style=&#34;color:#a6e22e&#34;&gt;tc&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;:=&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;transform&lt;/span&gt;.&lt;span style=&#34;color:#a6e22e&#34;&gt;NewTitleConverter&lt;/span&gt;(&lt;span style=&#34;color:#a6e22e&#34;&gt;transform&lt;/span&gt;.&lt;span style=&#34;color:#a6e22e&#34;&gt;ChicagoStyle&lt;/span&gt;)
-&lt;/span&gt;&lt;span style=&#34;display:block;width:100%;background-color:#3c3d38&#34;&gt;    &lt;span style=&#34;color:#66d9ef&#34;&gt;return&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;tc&lt;/span&gt;.&lt;span style=&#34;color:#a6e22e&#34;&gt;Title&lt;/span&gt;
-&lt;/span&gt;  &lt;span style=&#34;color:#66d9ef&#34;&gt;default&lt;/span&gt;:
-    &lt;span style=&#34;color:#a6e22e&#34;&gt;tc&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;:=&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;transform&lt;/span&gt;.&lt;span style=&#34;color:#a6e22e&#34;&gt;NewTitleConverter&lt;/span&gt;(&lt;span style=&#34;color:#a6e22e&#34;&gt;transform&lt;/span&gt;.&lt;span style=&#34;color:#a6e22e&#34;&gt;APStyle&lt;/span&gt;)
-    &lt;span style=&#34;color:#66d9ef&#34;&gt;return&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;tc&lt;/span&gt;.&lt;span style=&#34;color:#a6e22e&#34;&gt;Title&lt;/span&gt;
-  }
-}&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
-&lt;/div&gt;
-&lt;/div&gt;</description>
-      
-    </item>
-    
-    <item>
-      <title></title>
-      <link>http://q.4311346.com/post/2020/07/0716-neikan/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://q.4311346.com/post/2020/07/0716-neikan/</guid>
-      
-        <description>&lt;p&gt;企业文化建设的过程中，最有文化范的形式，就是制作和发布企业内刊。之前由部门另外一位同事在负责，将近半年的时间，都没能说动她进行改变。9012年都已经过完了，也没见更新，种种原因她也最终被动离职了。&lt;/p&gt;
-&lt;h4 id=&#34;第一次做企业内刊&#34;&gt;第一次做企业内刊&lt;/h4&gt;
-&lt;p&gt;对于企业内刊，6月初我做了一次大改版，抛弃了过去自己觉得难受的Word版，改用PPT。企业内刊中新增封面/前言/目录/封底，在内容页的每页设定好企业Logo还有企业文化，企业口号等标语。大致的框也就搭好了，当然，PPT背景设置成为竖状A4纸，210mm*297mm的尺寸，在制作过程中，四周适当留白，因为还有考虑到未来打印和印刷出版。&lt;/p&gt;
-&lt;h4 id=&#34;不会设计怎么办&#34;&gt;不会设计怎么办&lt;/h4&gt;
-&lt;p&gt;由于新接手的同事对于OFFICE的操作还不够熟练，所以尽可能一篇文章，暂用1个或多个页面。适当留白的同时，再做一些点缀。虽然大家都不是学美术、设计等相关专业的，但比起以前也是好上太多。&lt;/p&gt;
-&lt;h4 id=&#34;后续如何运营好企业内刊&#34;&gt;后续如何运营好企业内刊&lt;/h4&gt;
-&lt;p&gt;和互联网运营一样，在好的企业内刊制作出来的模板都只是基础，更多的还是在于内容的建设与活动的运营。毕竟内容为王的年代，如何吸引员工更多的阅读也是需要不断提升与思考的过程。&lt;/p&gt;
-&lt;h4 id=&#34;启发来源&#34;&gt;启发来源&lt;/h4&gt;
-&lt;p&gt;当然这里面少不一种《参与感》，还记得小米黎万强的那本书吗？&lt;/p&gt;
-&lt;h4 id=&#34;企业内刊样板&#34;&gt;企业内刊样板&lt;/h4&gt;
-&lt;p&gt;&lt;img src=&#34;https://4311346.com/usr/uploads/2020/07/3355752043.png&#34; alt=&#34;202007-企业内刊样例.png&#34;&gt;&lt;/p&gt;
-&lt;h4 id=&#34;如何发布企业内刊&#34;&gt;如何发布企业内刊&lt;/h4&gt;
-&lt;p&gt;1.PPT导出PDF
-2.云展网导入PDF就可以做出H5的杂志效果了 （去到&lt;a href=&#34;http://www.yunzhan365.com/&#34;&gt;云展网&lt;/a&gt;）
-3.企业邮箱将企业内刊PDF群发企业全体员工，邮件正文配点文案吧
-4.企业钉钉里发布企业公告，一样要配合文案和导读的介绍
-5.企业内刊中封底前最好做一些内部招聘、企业内刊下期征稿的内容介绍&lt;/p&gt;
-&lt;p&gt;大概就这么多吧，第一次做企业内刊，记录一下！&lt;/p&gt;
 </description>
       
     </item>
