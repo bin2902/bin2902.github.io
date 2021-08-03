@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: http://q.4311346.com/sitemap.xml
+Sitemap: http://www.4311346.com/sitemap.xml
